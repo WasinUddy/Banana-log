@@ -3,7 +3,7 @@ Create Log file in python easily with fancy Color !!!!
 
 ## Installation
 ```Python
-pip install bananalog
+pip install banana-log
 ```
 
 ## Usage
