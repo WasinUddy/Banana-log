@@ -54,8 +54,7 @@ logger.datetime_format = 'format_0' # 'format_0', 'format_1', ... , 'format_4'
 ```Python
 logger.log("LOG MESSAGE")
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-3.4.1 Log with log type
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.2 Log with log type
 ```Python
 logger.log("LOG MESSAGE", "LOG TYPE")
 ```
