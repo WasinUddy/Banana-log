@@ -9,7 +9,7 @@ pip install banana-log
 ## Usage
 1 Import Banalog
 ```Python
-from bananalog.banana import Banana
+from banana import Banana
 ```
 2 Create logger object
 ```Python
